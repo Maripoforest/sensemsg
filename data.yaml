@@ -1,0 +1,12 @@
+names:
+- coffeecup
+- gum
+- monster
+- plastiquebottle
+- plastiquecup
+- polyfoam
+- rubbercap
+- wastepaper
+nc: 8
+train: Litter-2/train/images
+val: Litter-2/valid/images
